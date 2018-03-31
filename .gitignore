@@ -1,0 +1,11 @@
+.DS_Store
+/vendor
+/node_modules
+/public/storage
+/public/assets/css/*.css.map
+Homestead.yaml
+Homestead.json
+.env
+.idea
+.vscode
+composer.lock
